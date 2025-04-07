@@ -1,2 +1,2 @@
 # contactfinder
-contact finder via website list
+contact finder via list of website, using web scraping methods and Machine learning.
